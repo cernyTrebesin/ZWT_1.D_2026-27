@@ -1,0 +1,24 @@
+/*
+selektor{
+    vlastnost: hodnota vlastnosti;
+}
+*/
+
+p{
+    border-style: solid; /*Styl rámečku*/
+    border-color: rgb(219, 104, 4); /*barva rámečku*/
+    border-width: 5px; /*Tloušťka rámečku*/
+    border-radius: 10%; /*Zaoblení rámečku*/
+    border-top-color: orchid /*Nastavení pro jednu část rámečku*/
+}
+body{
+    /*background: linear-gradient(to right, red, black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+
+    background-image: url("obr.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}

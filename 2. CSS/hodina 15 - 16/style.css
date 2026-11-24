@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#celek{
+    background-color: #a2aebb;
+    width: 500px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#jmeno{
+    background-color: #27374d;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+#omne{
+    padding: 10px 20px;
+    background-color: white;
+    margin: 10px 0;
+    border-radius: 10px;
+    h2{
+        margin-bottom: 10px;
+    }
+}
+
+#zajmy{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    h2{
+        margin-bottom: 10px;
+    }
+    span{
+        
+        margin-right: 20px;
+    }
+}
+#kontakt{
+    text-align: center;
+    background-color: rgb(188, 212, 233);
+    margin: 10px 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    h2{
+        margin: 10px 0 ;
+    }
+}
+
+
+
+

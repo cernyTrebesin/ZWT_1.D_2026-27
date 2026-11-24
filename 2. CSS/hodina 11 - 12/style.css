@@ -1,0 +1,16 @@
+*{ /*Univerzální selektor - upravuje všechno*/
+    background-color: aqua;
+}
+p{ /* Typový selektor */
+    color: orange; /* Barva písma */
+}
+
+#Spytihněv{ /*Selektor identifikátoru*/
+    background-color: black; /* Barva pozadí */
+    color: blueviolet;
+}
+
+.Řehoř{ /*Selektor třídy*/
+    border: solid pink; /* Nastavení rámečku*/
+    color: brown;
+}
